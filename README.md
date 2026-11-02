@@ -8,6 +8,7 @@ The specs of the computer that I used for this program:
  - 1 TB of SSD
 
 Libraries needed (the ones that needs to be installed):
+  - uv (optional for making the environment)
   - torch
   - whisper
   - ollama
@@ -15,3 +16,5 @@ Libraries needed (the ones that needs to be installed):
   - numpy
   - sounddevice
   - kokoro
+
+This AI agent is vibecoded with my supervision.
