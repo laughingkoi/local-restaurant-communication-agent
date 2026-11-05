@@ -1,5 +1,5 @@
-# local-restaurant-communication-agent
-A prototype of a locally-run AI agent that automates restaurant interactions through voice or messaging.
+# local-restaurant-communication-agent (Burger Bot)
+A prototype of a locally-run AI agent that automates fast food burger restaurant interactions through voice or messaging.
 
 The specs of the computer that I used for this program:
  - Intel I5-12400F
