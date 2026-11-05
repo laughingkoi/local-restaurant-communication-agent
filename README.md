@@ -11,10 +11,10 @@ Libraries needed (the ones that needs to be installed):
   - uv (optional for making the environment)
   - torch
   - whisper
-  - ollama
+  - ollama (Uses the model Qwen2.5:7b)
   - pydantic
   - numpy
   - sounddevice
-  - kokoro
+  - kokoro (Kokoro 82M)
 
 This AI agent is vibecoded with my supervision.
